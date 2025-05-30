@@ -1,0 +1,6 @@
+
+    Fix any HTML Semantic Issues
+    Fix any contrast issues
+    Add skip links
+    Add ARIA Roles
+    Add Schema Information where applicable
